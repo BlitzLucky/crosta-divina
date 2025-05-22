@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.49.8",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
+    "progetto_pizza": "file:",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^3.4.0"
